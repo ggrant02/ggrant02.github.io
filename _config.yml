@@ -1,6 +1,6 @@
 # Site
 title:              George Grant
-bio:                'A scientist.'
+bio:                'A scientist specializing in sniffing butts'
 description:        "George is a scientist specializing in sniffing butts."
 reading_time:       true
 words_per_minute:   200
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+#disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:             grant.538@osu.edu
 #twitter:            username
 #facebook:           username
 github-url:         ggrant02
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           george-grant-5850aab5
 #xing:              username
-instagram:          gwg02210
+#instagram:          gwg02210
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
