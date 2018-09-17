@@ -1,7 +1,7 @@
 # Site
 title:              George Grant
-bio:                'A scientist specializing in sniffing butts'
-description:        "George is a scientist specializing in sniffing butts."
+bio:                'A scientist'
+description:        "George is a scientist."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
